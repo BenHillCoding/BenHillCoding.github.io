@@ -1,0 +1,40 @@
+.header{
+    text-align: center;
+    margin: auto;
+}
+
+.body{
+    text-align: center;
+    margin: auto;
+}
+
+.text{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    color: rgb(95, 120, 173);
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+}
+
+a{
+    color: rgb(86, 118, 187);
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(64, 62, 184);
+}
+
+#image{
+    width: 30%;
+    height: 30%;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 20px;
+}
